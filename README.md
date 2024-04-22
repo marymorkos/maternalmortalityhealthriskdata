@@ -40,5 +40,8 @@ This project focuses on developing a machine learning model for maternal health 
 
 ## Contributors
 
-- [Your Name](https://github.com/marymorkos)
+- [Mary Morkos](https://github.com/marymorkos)
+
+## Class Project 
+- Data Mining with Python
 
